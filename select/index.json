@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ボクだけのもの",
+  "base_artist": "サンボマスター",
+  "createdAt": "2026-03-02T19:44:42.871076Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ボクだけのもの",
+      "artist": "サンボマスター",
+      "has_synced": false,
+      "path": "select/pl_01_ボクだけのもの_サンボマスター.txt"
+    }
+  ]
+}
